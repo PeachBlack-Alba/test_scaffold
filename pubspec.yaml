@@ -3,6 +3,9 @@ description: A Flutter package providing basic structures for unit, widget, and 
 version: 0.0.1
 homepage:
 
+publish_to: https://pub.dev/publishers/peachblack.es
+
+
 environment:
   sdk: '>=3.3.4 <4.0.0'
   flutter: ">=1.17.0"
