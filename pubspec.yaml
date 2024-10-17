@@ -4,7 +4,7 @@ version: 0.0.1
 homepage:
 
 publish_to: https://pub.dev/publishers/peachblack.es
-
+repository: https://github.com/PeachBlack-Alba/test_scaffold
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
