@@ -1,10 +1,9 @@
 name: test_scaffold
 description: A Flutter package providing basic structures for unit, widget, and integration tests.
 version: 0.0.2
-homepage:
-
-publish_to: https://pub.dev/publishers/peachblack.es
+homepage: https://github.com/PeachBlack-Alba/test_scaffold
 repository: https://github.com/PeachBlack-Alba/test_scaffold
+publish_to: https://pub.dev/publishers/peachblack.es
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
