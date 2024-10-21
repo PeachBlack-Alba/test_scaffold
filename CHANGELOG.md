@@ -8,3 +8,9 @@
 * Includes a well-organized project setup for testing Flutter applications.
 * README file with instructions on how to use the package.
 * MIT License included for open-source usage.
+
+## 0.0.3
+
+- Updated pubspec version
+- Fixed minor issues
+- Improved documentation
